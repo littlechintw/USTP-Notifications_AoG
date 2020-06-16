@@ -63,25 +63,25 @@
 - ngrok (Not necessarily needed)
 
 ## Dialogflow (無程式碼)
-    - Intents (功能)
-    ![](https://i.imgur.com/zKTB1Mp.png)
-        1. **幫助選單功能**
-        2. **四校查詢最新訊息功能**
-        3. **離開功能**
-        - *訓練字彙範例*
-        ![](https://i.imgur.com/eZWv2MW.png)
-        - *開啟 webhook call 功能*
-        ![](https://i.imgur.com/lhBfs1l.png)
+- Intents (功能)
+![](https://i.imgur.com/zKTB1Mp.png)
+    1. **幫助選單功能**
+    2. **四校查詢最新訊息功能**
+    3. **離開功能**
+    - *訓練字彙範例*
+    ![](https://i.imgur.com/eZWv2MW.png)
+    - *開啟 webhook call 功能*
+    ![](https://i.imgur.com/lhBfs1l.png)
 
-    - Entities (字彙定義)
-    ![](https://i.imgur.com/rXMqRZM.png)
-        1. **定義幫助選單字彙**
-        2. **定義四校的相關字彙**
-        3. **定義最新訊息字彙**
-        4. **定義離開功能字彙**
-        - *幫助選單字彙範例*
-        ![](https://i.imgur.com/iqu3xvN.png)
-        
-    - Fulfillment
-        - Webhook 設定
-        ![](https://i.imgur.com/SKq7VLv.png)
+- Entities (字彙定義)
+![](https://i.imgur.com/rXMqRZM.png)
+    1. **定義幫助選單字彙**
+    2. **定義四校的相關字彙**
+    3. **定義最新訊息字彙**
+    4. **定義離開功能字彙**
+    - *幫助選單字彙範例*
+    ![](https://i.imgur.com/iqu3xvN.png)
+
+- Fulfillment
+    - Webhook 設定
+    ![](https://i.imgur.com/SKq7VLv.png)
